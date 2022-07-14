@@ -2,6 +2,7 @@
 
 
 Course Description: 
+
 Looking to build your own mobile app or website? Want to learn the basics to create video games or the next great invention?
 This academy looks to develop the basic skills necessary to make it in the world of computer
 programming. By developing an understanding that the role that computation can play in
